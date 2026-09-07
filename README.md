@@ -55,7 +55,6 @@ on Odoo versions 13 through 19 and on Odoo.sh.
 | [odoo/odoo](https://github.com/odoo/odoo/pulls?q=author%3Afernando-pcg) | Upstream `l10n_do` proposals: journal cleanup and missing taxes on 13.0, Law 30-26 taxes on current versions. |
 | [upgrade-util](https://github.com/indexa-git/upgrade-util) | Migration tooling — pre/end-migration scripts, forced module uninstalls and deprecated-view cleanup that make 13 → 19 upgrades survivable. |
 | [external-service-addons](https://github.com/indexa-git/external-service-addons) | Currency update, NCF and RNC validation services: v14 migration and later configuration fixes. |
-| [qa_selenium_automation](https://github.com/fernando-pcg/qa_selenium_automation) · [k6_scripts](https://github.com/fernando-pcg/k6_scripts) | UI regression automation with Selenium, load and performance testing with k6. |
 
 ## Stack
 
